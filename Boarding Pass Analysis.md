@@ -40,7 +40,7 @@ Business perspective:
 
 ### Mobile version
 
-<img src="./Mobile.png" alt="Mobile" style="zoom:50%;" />
+<img src="./BoardPass_Mobile.png" alt="Mobile" style="zoom:50%;" />
 
 The user of these people is relatively younger, they can view their boarding pass anytime, anywhere with internet access and don't need to worry about losing their boarding pass.
 
