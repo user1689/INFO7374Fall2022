@@ -4,7 +4,7 @@
 
 This is my Alaska airline boarding pass. Let's look at it. 
 
-<img src="./IMG_1632.JPG" alt="IMG_1632" style="zoom: 25%;" />
+<img src="./BoardingPass.png" alt="IMG_1632" style="zoom: 25%;" />
 
 Some potential problems in Alaska airline boarding pass.
 
@@ -40,7 +40,7 @@ Business perspective:
 
 ### Mobile version
 
-<img src="/Users/llc/Desktop/22Fall/INFO7374Fall2022 /Mobile.png" alt="Mobile" style="zoom:50%;" />
+<img src="./Mobile.png" alt="Mobile" style="zoom:50%;" />
 
 The user of these people is relatively younger, they can view their boarding pass anytime, anywhere with internet access and don't need to worry about losing their boarding pass.
 
