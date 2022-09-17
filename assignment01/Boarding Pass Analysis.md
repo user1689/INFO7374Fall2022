@@ -4,7 +4,7 @@
 
 This is my Alaska airline boarding pass. Let's look at it. 
 
-<img src="./BoardingPass.png" alt="IMG_1632" style="zoom: 25%;" />
+<img src="./images/BoardingPass.png" alt="BoardingPass" style="zoom: 25%;" />
 
 Some potential problems in Alaska airline boarding pass.
 
@@ -21,7 +21,7 @@ In order to define the information architecture of the new boarding pass, I want
 
 ### Print/Kiosk version
 
-![BoardPass_Print](./BoardPass_Print.png)
+<img src="./images/BoardPass_Print.png" alt="BoardPass_Print" style="zoom:50%;" />
 
 For this version, the user is part of people who is older, which means they are not good at using Mobile. So they prefer to print boarding passes with help of an employee of the airport or use a Kiosk machine to print boarding passes by themselves.
 
@@ -42,7 +42,7 @@ Business perspective:
 
 ### Mobile version
 
-<img src="./BoardPass_Mobile.png" alt="Mobile" style="zoom:50%;" />
+<img src="./images/BoardPass_Mobile.png" alt="BoardPass_Mobile" style="zoom:50%;" />
 
 The user of these people is relatively younger, they can view their boarding pass anytime, anywhere with internet access and don't need to worry about losing their boarding pass.
 
