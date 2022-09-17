@@ -21,6 +21,8 @@ In order to define the information architecture of the new boarding pass, I want
 
 ### Print/Kiosk version
 
+![BoardPass_Print](./BoardPass_Print.png)
+
 For this version, the user is part of people who is older, which means they are not good at using Mobile. So they prefer to print boarding passes with help of an employee of the airport or use a Kiosk machine to print boarding passes by themselves.
 
 - Hierarchy: Arrange the information in a neat layout and clearly separate the customer and employee parts, which can make the boarding pass tidier
